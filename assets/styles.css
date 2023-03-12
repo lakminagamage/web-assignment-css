@@ -874,4 +874,16 @@ fieldset {
 
 }
 
+.row-offers{
+    display: inline-flex;
+    text-align: center;
+
+}
+
+.offer-main{
+    background: url("../assets/img/20.jpg");
+    background-size: cover;
+    height: 1000px;
+    color: #f3fdff;
+}
 
